@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-03-29T19:38:10.529+03:00
+  initializedAtString: 2020-03-29T19:38:10.529+03:00
+  log:
+  - commitID: 59cce2f00df6a333639bae145b55cb123d1db306
+    mergeA: 
+    mergeB: 
+    authorName: tuncangin
+    authorEmail: 62047975+tuncangin@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md
+    description: 
+    timeString: 2020-03-29T17:28:37.000+03:00
+    commitTimeString: 2020-03-29T17:28:37.000+03:00
+    changes:
+    - path: README.md
+      fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 8f5de00315e17d2961ac4743ce8df249b9d2fdfa
+    mergeA: 
+    mergeB: 
+    authorName: tuncangin
+    authorEmail: 62047975+tuncangin@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-03-29T17:27:58.000+03:00
+    commitTimeString: 2020-03-29T17:27:58.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
