@@ -13,66 +13,294 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-29T20:39:17.921+03:00
-  initializedAtString: 2020-03-29T20:39:17.921+03:00
+  lastUpdatedAtString: 2020-03-29T20:52:51.227+03:00
+  initializedAtString: 2020-03-29T20:51:40.799+03:00
   entries:
+  - path: YulafliGame\Assets\script.cs
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Assets\script.cs
+    projectPath: Assets\script.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Assets\script.cs.meta
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Assets\script.cs.meta
+    projectPath: Assets\script.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: YulafliGame\Library\ArtifactDB
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\ArtifactDB
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: YulafliGame\Library\Artifacts\15\155a317243295cb64cf4c892ec3f0594
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\Artifacts\15\155a317243295cb64cf4c892ec3f0594
+    projectPath: Library\Artifacts\15\155a317243295cb64cf4c892ec3f0594
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Library\Artifacts\7b\7b2d91798ab704b330d54579f195238a
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\Artifacts\7b\7b2d91798ab704b330d54579f195238a
+    projectPath: Library\Artifacts\7b\7b2d91798ab704b330d54579f195238a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Library\Artifacts\82\82b492b166bc7452aeab6e4dfbfd43b7
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\Artifacts\82\82b492b166bc7452aeab6e4dfbfd43b7
+    projectPath: Library\Artifacts\82\82b492b166bc7452aeab6e4dfbfd43b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Library\Artifacts\96\968d70f402f73739beb6a2032ad6fe8f
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\Artifacts\96\968d70f402f73739beb6a2032ad6fe8f
+    projectPath: Library\Artifacts\96\968d70f402f73739beb6a2032ad6fe8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Library\Artifacts\b1\b1e1c5b0ecaf063657899f439e8f9319
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\Artifacts\b1\b1e1c5b0ecaf063657899f439e8f9319
+    projectPath: Library\Artifacts\b1\b1e1c5b0ecaf063657899f439e8f9319
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: YulafliGame\Library\EditorInstance.json
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\EditorInstance.json
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: YulafliGame\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: YulafliGame\Library\gfu\cache\repoinfo.yaml
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: YulafliGame\Library\ShaderCache\2\27a2aab2126c1a7b7cd1709b3ed980fe.bin
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\ShaderCache\2\27a2aab2126c1a7b7cd1709b3ed980fe.bin
-    projectPath: Library\ShaderCache\2\27a2aab2126c1a7b7cd1709b3ed980fe.bin
+  - path: YulafliGame\Library\PackageCache\com.unity.postprocessing@2.3.0\package.json
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\PackageCache\com.unity.postprocessing@2.3.0\package.json
+    projectPath: Library\PackageCache\com.unity.postprocessing@2.3.0\package.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: YulafliGame\Library\ShaderCache\6\6cf5a61b4b4b67168684c84163407a9f.bin
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\ShaderCache\6\6cf5a61b4b4b67168684c84163407a9f.bin
-    projectPath: Library\ShaderCache\6\6cf5a61b4b4b67168684c84163407a9f.bin
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    projectPath: Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: YulafliGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: YulafliGame\Library\SourceAssetDB
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Library\SourceAssetDB
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: YulafliGame\Library\StateCache\Hierarchy\35bb64-mainStage.json
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Library\StateCache\Hierarchy\35bb64-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\35bb64-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: YulafliGame\Temp\UnityLockfile
-    fullPath: E:\GitGaming\GitHubLocal\YulafEzmesi\YulafliGame\Temp\UnityLockfile
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-098865dabc43e5a448950e5fe5b15855
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-098865dabc43e5a448950e5fe5b15855
+    projectPath: Temp\UnityTempFile-098865dabc43e5a448950e5fe5b15855
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-14b8a07d993cf4846882c381cdbdf059
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-14b8a07d993cf4846882c381cdbdf059
+    projectPath: Temp\UnityTempFile-14b8a07d993cf4846882c381cdbdf059
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-29ff14e86a01a454fbd0750ff0651238
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-29ff14e86a01a454fbd0750ff0651238
+    projectPath: Temp\UnityTempFile-29ff14e86a01a454fbd0750ff0651238
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-3db1bc64e38ec0643aaca71097d52a0e
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-3db1bc64e38ec0643aaca71097d52a0e
+    projectPath: Temp\UnityTempFile-3db1bc64e38ec0643aaca71097d52a0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-57e5a1862a2bb1f458752371c5e96057
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-57e5a1862a2bb1f458752371c5e96057
+    projectPath: Temp\UnityTempFile-57e5a1862a2bb1f458752371c5e96057
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-777cb5ddbd9ec8d47a25eac279fd604b
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-777cb5ddbd9ec8d47a25eac279fd604b
+    projectPath: Temp\UnityTempFile-777cb5ddbd9ec8d47a25eac279fd604b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-9ab18c17b2e7a424bab7652ae46d209e
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-9ab18c17b2e7a424bab7652ae46d209e
+    projectPath: Temp\UnityTempFile-9ab18c17b2e7a424bab7652ae46d209e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-9ca7fe26987e32e4b9908e5504e78513
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-9ca7fe26987e32e4b9908e5504e78513
+    projectPath: Temp\UnityTempFile-9ca7fe26987e32e4b9908e5504e78513
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-af1a4b5b03ac9654685718689c5e60b6
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-af1a4b5b03ac9654685718689c5e60b6
+    projectPath: Temp\UnityTempFile-af1a4b5b03ac9654685718689c5e60b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-b296f22cf2808084480620acec4bc955
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-b296f22cf2808084480620acec4bc955
+    projectPath: Temp\UnityTempFile-b296f22cf2808084480620acec4bc955
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-b763225e7ca5cfb44ac7b87ffb518ae4
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-b763225e7ca5cfb44ac7b87ffb518ae4
+    projectPath: Temp\UnityTempFile-b763225e7ca5cfb44ac7b87ffb518ae4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-dcdad57ad5d668346879160d451bd6f3
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-dcdad57ad5d668346879160d451bd6f3
+    projectPath: Temp\UnityTempFile-dcdad57ad5d668346879160d451bd6f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-e8244a7284051224bbfc1589f61fee6a
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-e8244a7284051224bbfc1589f61fee6a
+    projectPath: Temp\UnityTempFile-e8244a7284051224bbfc1589f61fee6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-ef5b5d5bfb7106047926178affb5ca3f
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-ef5b5d5bfb7106047926178affb5ca3f
+    projectPath: Temp\UnityTempFile-ef5b5d5bfb7106047926178affb5ca3f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: YulafliGame\Temp\UnityTempFile-fff894746780320449a17c2502d72089
+    fullPath: D:\Projects\Feelinc\YulafEzmesi\YulafliGame\Temp\UnityTempFile-fff894746780320449a17c2502d72089
+    projectPath: Temp\UnityTempFile-fff894746780320449a17c2502d72089
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
